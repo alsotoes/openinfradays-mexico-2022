@@ -3,12 +3,61 @@
     <title>openinfraday2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022" />
-    <updated>2022-06-15T04:47:54-05:00</updated>
+    <updated>2022-06-15T06:10:56-05:00</updated>
     <author>
         <name>Openinfra Mexico Community</name>
     </author>
     <id>https://alsotoes.github.io/openinfradays-mexico-2022</id>
 
+    <entry>
+        <title>Sponsors</title>
+        <author>
+            <name>Openinfra Mexico Community</name>
+        </author>
+        <link href="https://alsotoes.github.io/openinfradays-mexico-2022/sponsors.html"/>
+        <id>https://alsotoes.github.io/openinfradays-mexico-2022/sponsors.html</id>
+
+        <updated>2022-06-15T06:05:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Soon... (We hope)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">Soon... (We hope)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>OID-MX&#x27;22</title>
+        <author>
+            <name>Openinfra Mexico Community</name>
+        </author>
+        <link href="https://alsotoes.github.io/openinfradays-mexico-2022/about-oid-mexico.html"/>
+        <id>https://alsotoes.github.io/openinfradays-mexico-2022/about-oid-mexico.html</id>
+
+        <updated>2022-06-15T06:08:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                    OpenInfra Days Mexico Format Event will be 100% online only and interactions will be done by real-time chat between speakers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>OpenInfra Days Mexico Format</h2>
+<p>Event will be 100% online only and interactions will be done by real-time chat between speakers and participants, be ready to make and answer questions, share links or even laboratory environments accesses.</p>
+<h1>Presentations</h1>
+<p>Presentations videos will be prerecorded and shared by the time scheduled, chat rooms will stay open from the beginning of the event and remain open from several month after.</p>
+<h1>Chat rooms</h1>
+<p>We will share a slack invite for all the participants a day before the event opening to be ready to interact and share opinions and questions.</p>
+<h1>Code of conduct</h1>
+<p>Please see <a href="https://openinfra.dev/legal/code-of-conduct" target="_blank" rel="noopener noreferrer">Code of conduct</a> section.</p>
+<h1>Questions</h1>
+<p>Send us an e-mail to <a href="mailto:hello@openinfradays.mx">hello@openinfradays.mx</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Home</title>
         <author>
@@ -17,28 +66,37 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/home.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/home.html</id>
 
-        <updated>2022-06-15T04:47:54-05:00</updated>
+        <updated>2022-06-15T06:10:56-05:00</updated>
             <summary>
                 <![CDATA[
-                    OpenInfra Days Mexico 2022 #We're OpenInfra / #SomosOpenInfra OpenInfra Days is an event organized by Open Infrastructure User Group around&hellip;
+                    OpenInfra Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 15 OpenInfra Days is&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h1 class="align-center"><span style="color: #169179;"><strong>OpenInfra Days </strong></span><span style="color: #169179;"><strong>Mexico 2022</strong></span></h1>
 <p> </p>
-<p class="align-center">#We're OpenInfra / #SomosOpenInfra</p>
+<p class="align-center">We're OpenInfra / Somos OpenInfra</p>
 <hr>
+<h2>Call for presentations now Open 🤓</h2>
+<ul>
+<li>
+<p>Speak at OID-MX'22 - Submissions Close July 15</p>
+</li>
+<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022/call-for-presentations.html">Call for presentations</a> to understand about Categories/Topics for consideration for sessions and case studies.</li>
+<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022/about-oid-mexico.html">About OID Mexico</a> to know more about the event format.</li>
+<li>To submit a proposal, please contact: <a href="mailto:speakers@openinfradays.mx" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">speakers@openinfradays.mx</a></li>
+</ul>
 <h2>About OID Mexico</h2>
 <div class="text">
 <p>OpenInfra Days is an event organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics.</p>
 <p>OpenInfra Days Mexico is one of the regional OpenInfra Days. the event is organized by Open Infrastructure User Groups from several regions in Mexico. And it's focused on community development across Mexico. To union community efforts, to develop Open Infrastructure community, and to provide back to each local user groups in Mexico.</p>
-<table class="align-center" style="border-collapse: collapse; width: 107.55%;" border="0">
+<table class="align-center" style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 33.1507%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/0/00/Angel-de-la-Independencia--Mexico-D.F.jpg" data-is-external-image="true"  alt="" width="181" height="250"></figure></td>
-<td style="width: 33.4247%;"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg/450px-Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg" data-is-external-image="true"  width="187" height="250"></figure></td>
-<td style="width: 33.4247%;"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg/532px-Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg" data-is-external-image="true"  width="222" height="249"></figure></td>
+<td style="width: 33.1507%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/0/00/Angel-de-la-Independencia--Mexico-D.F.jpg" data-is-external-image="true"  alt="" width="144" height="200"></figure></a></td>
+<td style="width: 33.4247%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg/450px-Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg" data-is-external-image="true"  width="150" height="200"></figure></a></td>
+<td style="width: 33.4247%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg/532px-Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg" data-is-external-image="true"  width="178" height="200"></figure></a></td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +106,7 @@
 <li><a href="https://www.meetup.com/OpenInfrastructureCDMX/" target="_blank" rel="noopener noreferrer">Mexico City</a></li>
 <li><a href="https://www.meetup.com/OpenInfrastructureGDL/" target="_blank" rel="noopener noreferrer">Guadalajara</a></li>
 </ul>
-<p>For general information about the OpenInfra foundation please <a href="https://openinfra.dev/">click here</a></p>
+<p>For general information about the OpenInfra foundation please <a href="https://openinfra.dev/" target="_blank" rel="noopener noreferrer">click here</a></p>
 </div>
             ]]>
         </content>
@@ -61,7 +119,7 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/call-for-presentations.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/call-for-presentations.html</id>
 
-        <updated>2022-06-15T03:55:36-05:00</updated>
+        <updated>2022-06-15T05:36:43-05:00</updated>
             <summary>
                 <![CDATA[
                     OpenInfraDays Tracks The OpenInfra events includes keynotes, presentations, panels, hands-on workshops, and collaborative working sessions covering over 30 open source&hellip;
@@ -73,17 +131,20 @@
 <p>The OpenInfra events includes keynotes, presentations, panels, hands-on workshops, and collaborative working sessions covering over 30 open source projects. Expect to hear about the intersection of many open source infrastructure projects, including Ceph, Kubernetes, Magma, ONAP, OPNFV and the projects hosted by the OpenInfra Foundation: Airship, Kata Containers, OpenInfra Labs, OpenStack, StarlingX, and Zuul.</p>
 <p> </p>
 <h1 class="align-center"><strong>Call for Presentations</strong></h1>
-<p><strong>5G, NFV &amp; Edge</strong><br>Topics include: 5G, cloudlet, distributed computing, economics, Mesh, security, networking, architecture, ease of deployment, edge ecosystem, hardware performance accelerators (e.g. GPUs, ASICs, etc.), hardware profile, IoT, low end-to-end latency, management tools, scaling, edge-enabled applications, physical hardening, QoS, remote/extreme environments, remote troubleshooting, standalone cloudlets, tamper evidence, tamper resistance, VM and container handoff across WAN connections, zero-touch provisioning, QoS, SDN, SLAs, standardization e.g. ETSI NFV</p>
-<p><strong>AI, Machine Learning, HPC</strong><br>Topics include: AI, computation, cluster, economics, exascale, government, GPUs, grid, HPC, HTC, machine learning, New applications for AI running on OpenStack clouds, Novel/Emerging architectures for GPUs/AI, operations at scale, performance, scientific research</p>
-<p><strong>CI/CD</strong><br>Topics include: Software development pipeline, automated testing, QA, culture &amp; process, policies &amp; compliance, CI/CD ecosystem, repository architecture, unit vs integration testing, deployment maturity model, gitops</p>
-<p><strong>Container Infrastructure</strong><br>Topics include: Running containers at scale, container ecosystem, container networking, container storage, container security, hybrid VM &amp; container architectures, containers &amp; bare metal</p>
+<p><strong>5G, NFV &amp; Edge</strong><br>Topics include: 5G, cloudlet, distributed computing, economics, Mesh, security, networking, architecture, ease of deployment, edge ecosystem, hardware performance accelerators (e.g. GPUs, ASICs, etc.), hardware profile, IoT, low end-to-end latency, management tools, scaling, edge-enabled applications, physical hardening, QoS, remote/extreme environments, remote troubleshooting, standalone cloudlets, tamper evidence, tamper resistance, VM and container handoff across WAN connections, zero-touch provisioning, QoS, SDN, SLAs, standardization e.g. ETSI NFV.</p>
+<p><strong>AI, Machine Learning, HPC</strong><br>Topics include: AI, computation, cluster, economics, exascale, government, GPUs, grid, HPC, HTC, machine learning, New applications for AI running on OpenStack clouds, Novel/Emerging architectures for GPUs/AI, operations at scale, performance, scientific research.</p>
+<p><strong>CI/CD</strong><br>Topics include: Software development pipeline, automated testing, QA, culture &amp; process, policies &amp; compliance, CI/CD ecosystem, repository architecture, unit vs integration testing, deployment maturity model, gitops.</p>
+<p><strong>Container Infrastructure</strong><br>Topics include: Running containers at scale, container ecosystem, container networking, container storage, container security, hybrid VM &amp; container architectures, containers &amp; bare metal.</p>
 <p><strong>Getting Started</strong><br>Beginner-level track to learn the basics about all open infrastructure-related topics.</p>
 <p><strong>Hands-on Workshops</strong><br>Hands-on Workshops offer a window into training for operators and application developers across different projects. Sessions are typically 90 minutes and require an RSVP and some prep work. Bring your laptop and walk away with the skills you need to become an open source contributor.</p>
-<p><strong>Hardware Enablement</strong><br>Topics include: Software components needed to enable hardware in cloud or edge environments, GPUS, DPUs, FPGAs, sustainability, data center operations, hardware standards (Open19, OCP), data center efficiency, server design, SmartNICs, testing and certification</p>
+<p><strong>Hardware Enablement</strong><br>Topics include: Software components needed to enable hardware in cloud or edge environments, GPUS, DPUs, FPGAs, sustainability, data center operations, hardware standards (Open19, OCP), data center efficiency, server design, SmartNICs, testing and certification.</p>
 <p><strong>Open Development</strong><br>Topics include: the 4 opens, the future of free and open source software, challenges of open collaboration, open development best practices and tools, open source governance models, diversity and inclusion, mentoring and outreach, community management.</p>
-<p><strong>Private &amp; Hybrid Cloud</strong><br>Topics include: architecture, bare metal, economics, hardware, operations, orchestration &amp; hybrid cloud tools, networking, organizational culture &amp; processes, security &amp; compliance, SLAs, storage, upgrades, user experience, vendor selection</p>
-<p><strong>Public Cloud</strong><br>Topics include: architecture / hardware, economics, cloud portability, features &amp; needs, federation, hardware, operations / upgrades, multi-tenants, networking, performance, scale, security &amp; compliance, SLAs, storage, open source platforms, tools &amp; SDKs, UI / UX, upgrades, user experience</p>
-<p><strong>Security</strong><br>Topics include: Attestation, authenticity, authorization, data protection, encryption, identification, policy enforcement, privacy, regulatory compliance, risk management, trusted computing, vulnerability tracking/mitigation</p>
+<p><strong>Private &amp; Hybrid Cloud</strong><br>Topics include: architecture, bare metal, economics, hardware, operations, orchestration &amp; hybrid cloud tools, networking, organizational culture &amp; processes, security &amp; compliance, SLAs, storage, upgrades, user experience, vendor selection.</p>
+<p><strong>Public Cloud</strong><br>Topics include: architecture / hardware, economics, cloud portability, features &amp; needs, federation, hardware, operations / upgrades, multi-tenants, networking, performance, scale, security &amp; compliance, SLAs, storage, open source platforms, tools &amp; SDKs, UI / UX, upgrades, user experience.</p>
+<p><strong>Security</strong><br>Topics include: Attestation, authenticity, authorization, data protection, encryption, identification, policy enforcement, privacy, regulatory compliance, risk management, trusted computing, vulnerability tracking/mitigation.</p>
+<hr>
+<p><strong>Contact Information</strong><br>For additional questions, please contact <a href="mailto:speakers@openinfradays.mx">speakers@openinfradays.mx</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
