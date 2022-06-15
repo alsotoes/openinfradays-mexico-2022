@@ -3,7 +3,7 @@
     <title>openinfraday2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022" />
-    <updated>2022-06-15T13:26:42-05:00</updated>
+    <updated>2022-06-15T14:21:12-05:00</updated>
     <author>
         <name>OpenInfra Mexico Community</name>
     </author>
@@ -67,7 +67,7 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/home.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/home.html</id>
 
-        <updated>2022-06-15T13:26:42-05:00</updated>
+        <updated>2022-06-15T14:21:12-05:00</updated>
             <summary>
                 <![CDATA[
                     OpenInfra Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 15 OpenInfra Days is&hellip;
@@ -93,7 +93,7 @@
 <div class="text">
 <p>OpenInfra Days is an event organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics.</p>
 <p>OpenInfra Days Mexico is one of the regional OpenInfra Days. the event is organized by Open Infrastructure User Groups from several regions in Mexico. And it's focused on community development across Mexico. To union community efforts, to develop Open Infrastructure community, and to provide back to each local user groups in Mexico.</p>
-<table class="align-center" style="width: 100%; border: none;" border="0">
+<table class="align-center" style="border-collapse: collapse; width: 100%; border-color: #000000; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.1507%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/0/00/Angel-de-la-Independencia--Mexico-D.F.jpg" data-is-external-image="true"  alt="" width="144" height="200"></figure></a></td>
@@ -105,8 +105,8 @@
 <h2 class="sec-title align-left"><span class="title">About the community</span></h2>
 <p>This event is hosted by user groups from</p>
 <ul>
-<li><a href="https://www.meetup.com/OpenInfrastructureCDMX/" target="_blank" rel="noopener noreferrer">Mexico City</a></li>
-<li><a href="https://www.meetup.com/OpenInfrastructureGDL/" target="_blank" rel="noopener noreferrer">Guadalajara</a></li>
+<li><a href="https://www.meetup.com/OpenInfrastructureCDMX/" target="_blank" rel="noopener noreferrer">Mexico City Meetup Group</a></li>
+<li><a href="https://www.meetup.com/OpenInfrastructureGDL/" target="_blank" rel="noopener noreferrer">Guadalajara Meetup Group</a></li>
 </ul>
 <p>For general information about the OpenInfra foundation please <a href="https://openinfra.dev/" target="_blank" rel="noopener noreferrer">click here</a></p>
 </div>
