@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://alsotoes.github.io/openinfradays-mexico-2022/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://alsotoes.github.io/openinfradays-mexico-2022/</loc>
+</url>
+<url>
+<loc>https://alsotoes.github.io/openinfradays-mexico-2022/call-for-presentations.html</loc>
+<lastmod>2022-06-15T03:55:36-05:00</lastmod>
+</url>
+<url>
+<loc>https://alsotoes.github.io/openinfradays-mexico-2022/home.html</loc>
+<lastmod>2022-06-15T04:15:58-05:00</lastmod>
+</url>
+</urlset>

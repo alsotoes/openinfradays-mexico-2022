@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alsotoes.github.io/openinfradays-mexico-2022/sitemap.xml
