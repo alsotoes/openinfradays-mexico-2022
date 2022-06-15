@@ -3,21 +3,21 @@
     <title>openinfraday2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022" />
-    <updated>2022-06-15T06:25:58-05:00</updated>
+    <updated>2022-06-15T14:21:12-05:00</updated>
     <author>
-        <name>Openinfra Mexico Community</name>
+        <name>OpenInfra Mexico Community</name>
     </author>
     <id>https://alsotoes.github.io/openinfradays-mexico-2022</id>
 
     <entry>
         <title>Sponsors</title>
         <author>
-            <name>Openinfra Mexico Community</name>
+            <name>OpenInfra Mexico Community</name>
         </author>
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/sponsors.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/sponsors.html</id>
 
-        <updated>2022-06-15T06:05:22-05:00</updated>
+        <updated>2022-06-15T13:25:56-05:00</updated>
             <summary>
                 <![CDATA[
                     Soon... (We hope)
@@ -26,13 +26,14 @@
         <content type="html">
             <![CDATA[
                 <p class="align-center">Soon... (We hope)</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://alsotoes.github.io/openinfradays-mexico-2022/media/posts/4/sticker_10.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://alsotoes.github.io/openinfradays-mexico-2022/media/posts/4/responsive/sticker_10-xs.png 384w ,https://alsotoes.github.io/openinfradays-mexico-2022/media/posts/4/responsive/sticker_10-sm.png 600w ,https://alsotoes.github.io/openinfradays-mexico-2022/media/posts/4/responsive/sticker_10-md.png 768w ,https://alsotoes.github.io/openinfradays-mexico-2022/media/posts/4/responsive/sticker_10-lg.png 1200w ,https://alsotoes.github.io/openinfradays-mexico-2022/media/posts/4/responsive/sticker_10-xl.png 1600w"  alt="" width="512" height="512"></figure>
             ]]>
         </content>
     </entry>
     <entry>
         <title>OID-MX&#x27;22</title>
         <author>
-            <name>Openinfra Mexico Community</name>
+            <name>OpenInfra Mexico Community</name>
         </author>
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/about-oid-mexico.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/about-oid-mexico.html</id>
@@ -61,12 +62,12 @@
     <entry>
         <title>Home</title>
         <author>
-            <name>Openinfra Mexico Community</name>
+            <name>OpenInfra Mexico Community</name>
         </author>
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/home.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/home.html</id>
 
-        <updated>2022-06-15T06:25:58-05:00</updated>
+        <updated>2022-06-15T14:21:12-05:00</updated>
             <summary>
                 <![CDATA[
                     OpenInfra Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 15 OpenInfra Days is&hellip;
@@ -75,8 +76,9 @@
         <content type="html">
             <![CDATA[
                 <h1 class="align-center"><span style="color: #169179;"><strong>OpenInfra Days </strong></span><span style="color: #169179;"><strong>Mexico 2022</strong></span></h1>
-<p> </p>
+<p class="align-center"> </p>
 <p class="align-center">We're OpenInfra / Somos OpenInfra</p>
+<p class="align-center"> </p>
 <hr>
 <h2>Call for presentations now Open 🤓</h2>
 <ul>
@@ -91,7 +93,7 @@
 <div class="text">
 <p>OpenInfra Days is an event organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics.</p>
 <p>OpenInfra Days Mexico is one of the regional OpenInfra Days. the event is organized by Open Infrastructure User Groups from several regions in Mexico. And it's focused on community development across Mexico. To union community efforts, to develop Open Infrastructure community, and to provide back to each local user groups in Mexico.</p>
-<table class="align-center" style="width: 100%; border: none;" border="0">
+<table class="align-center" style="border-collapse: collapse; width: 100%; border-color: #000000; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.1507%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/0/00/Angel-de-la-Independencia--Mexico-D.F.jpg" data-is-external-image="true"  alt="" width="144" height="200"></figure></a></td>
@@ -103,8 +105,8 @@
 <h2 class="sec-title align-left"><span class="title">About the community</span></h2>
 <p>This event is hosted by user groups from</p>
 <ul>
-<li><a href="https://www.meetup.com/OpenInfrastructureCDMX/" target="_blank" rel="noopener noreferrer">Mexico City</a></li>
-<li><a href="https://www.meetup.com/OpenInfrastructureGDL/" target="_blank" rel="noopener noreferrer">Guadalajara</a></li>
+<li><a href="https://www.meetup.com/OpenInfrastructureCDMX/" target="_blank" rel="noopener noreferrer">Mexico City Meetup Group</a></li>
+<li><a href="https://www.meetup.com/OpenInfrastructureGDL/" target="_blank" rel="noopener noreferrer">Guadalajara Meetup Group</a></li>
 </ul>
 <p>For general information about the OpenInfra foundation please <a href="https://openinfra.dev/" target="_blank" rel="noopener noreferrer">click here</a></p>
 </div>
@@ -114,7 +116,7 @@
     <entry>
         <title>Call for presentations</title>
         <author>
-            <name>Openinfra Mexico Community</name>
+            <name>OpenInfra Mexico Community</name>
         </author>
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/call-for-presentations.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/call-for-presentations.html</id>
