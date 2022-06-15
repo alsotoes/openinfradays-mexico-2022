@@ -3,7 +3,7 @@
     <title>openinfraday2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022" />
-    <updated>2022-06-15T04:15:58-05:00</updated>
+    <updated>2022-06-15T04:47:54-05:00</updated>
     <author>
         <name>Openinfra Mexico Community</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022/home.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022/home.html</id>
 
-        <updated>2022-06-15T04:15:58-05:00</updated>
+        <updated>2022-06-15T04:47:54-05:00</updated>
             <summary>
                 <![CDATA[
                     OpenInfra Days Mexico 2022 #We're OpenInfra / #SomosOpenInfra OpenInfra Days is an event organized by Open Infrastructure User Group around&hellip;
@@ -33,21 +33,22 @@
 <div class="text">
 <p>OpenInfra Days is an event organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics.</p>
 <p>OpenInfra Days Mexico is one of the regional OpenInfra Days. the event is organized by Open Infrastructure User Groups from several regions in Mexico. And it's focused on community development across Mexico. To union community efforts, to develop Open Infrastructure community, and to provide back to each local user groups in Mexico.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table class="align-center" style="border-collapse: collapse; width: 107.55%;" border="0">
 <tbody>
 <tr>
-<td style="width: 33.2843%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/0/00/Angel-de-la-Independencia--Mexico-D.F.jpg" data-is-external-image="true"  alt="" width="181" height="250"></figure></td>
-<td style="width: 33.2843%;"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg/450px-Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg" data-is-external-image="true"  width="187" height="250"></figure></td>
-<td style="width: 33.2889%;"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg/532px-Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg" data-is-external-image="true"  width="222" height="250"></figure></td>
+<td style="width: 33.1507%;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/0/00/Angel-de-la-Independencia--Mexico-D.F.jpg" data-is-external-image="true"  alt="" width="181" height="250"></figure></td>
+<td style="width: 33.4247%;"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg/450px-Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg" data-is-external-image="true"  width="187" height="250"></figure></td>
+<td style="width: 33.4247%;"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg/532px-Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg" data-is-external-image="true"  width="222" height="249"></figure></td>
 </tr>
 </tbody>
 </table>
 <h2 class="sec-title align-left"><span class="title">About the community</span></h2>
-<p>This event is hosted by users groups from</p>
+<p>This event is hosted by user groups from</p>
 <ul>
 <li><a href="https://www.meetup.com/OpenInfrastructureCDMX/" target="_blank" rel="noopener noreferrer">Mexico City</a></li>
 <li><a href="https://www.meetup.com/OpenInfrastructureGDL/" target="_blank" rel="noopener noreferrer">Guadalajara</a></li>
 </ul>
+<p>For general information about the OpenInfra foundation please <a href="https://openinfra.dev/">click here</a></p>
 </div>
             ]]>
         </content>
