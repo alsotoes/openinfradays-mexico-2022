@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>openinfraday2022</title>
+    <title>OpenInfraDays Mexico 2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io" />
-    <updated>2022-06-15T17:53:04-05:00</updated>
+    <updated>2022-06-15T22:32:24-05:00</updated>
     <author>
         <name>OpenInfra Mexico Community</name>
     </author>
@@ -67,7 +67,7 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home.html"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home.html</id>
 
-        <updated>2022-06-15T17:51:55-05:00</updated>
+        <updated>2022-06-15T22:32:24-05:00</updated>
             <summary>
                 <![CDATA[
                     Open Infrastructure Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 15 Open Infrastructure&hellip;
@@ -93,9 +93,9 @@
 <div class="text">
 <p>Open Infrastructure Days is an event organized by Open Infrastructure User Group around the world. And focused on Open Infrastructure Projects and any related topics.</p>
 <p>Open Infrastructure Days Mexico is one of the regional Open Infrastructure Days. the event is organized by Open Infrastructure User Groups from several regions in Mexico. And it's focused on community development across Mexico. To union community efforts, to develop Open Infrastructure community, and to provide back to each local user groups in Mexico.</p>
-<table class="align-center" style="border-collapse: collapse; width: 100%; border-color: #000000; border-style: none;" border="1">
+<table class="align-center" style="border-collapse: collapse; width: 100%; border-color: #000000; border-style: solid;" border="1">
 <tbody>
-<tr>
+<tr style="border-collapse: collapse; width: 100%; border-color: #000000; border-style: solid;">
 <td style="width: 33.1507%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image post__image--center"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/0/00/Angel-de-la-Independencia--Mexico-D.F.jpg" data-is-external-image="true"  alt="" width="144" height="200"></figure></a></td>
 <td style="width: 33.4247%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg/450px-Mexico-3271_-_Z%C3%B3calo_%282214738586%29.jpg" data-is-external-image="true"  width="150" height="200"></figure></a></td>
 <td style="width: 33.4247%;"><a href="https://en.wikipedia.org/wiki/Mexico_City" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg/532px-Monumento_a_la_Revoluci%C3%B3n_2_%28cropped%29.jpg" data-is-external-image="true"  width="178" height="200"></figure></a></td>
