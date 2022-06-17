@@ -14,29 +14,29 @@
             "id": "https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors.html",
             "url": "https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors.html",
             "title": "Sponsors",
-            "summary": "Soon... (We hope)",
-            "content_html": "<p class=\"align-center\">Soon... (We hope)</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/sticker_10.png\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xs.png 384w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-sm.png 600w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-md.png 768w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-lg.png 1200w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xl.png 1600w\"  alt=\"\" width=\"512\" height=\"512\"></figure>",
+            "summary": "Soon... (We hope) If you or your company wants to become one please reach out to us at mkt@openinfradays.mx",
+            "content_html": "<p class=\"align-center\">Soon... (We hope)</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/sticker_10.png\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xs.png 384w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-sm.png 600w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-md.png 768w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-lg.png 1200w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xl.png 1600w\"  alt=\"\" width=\"309\" height=\"309\"></figure>\n<p class=\"align-center\">If you or your company wants to become one please reach out to us at <a href=\"mailto:mkt@openinfradays.mx\">mkt@openinfradays.mx</a></p>",
             "author": {
                 "name": "OpenInfra Mexico Community"
             },
             "tags": [
             ],
             "date_published": "2022-06-15T06:05:22-05:00",
-            "date_modified": "2022-06-15T17:52:00-05:00"
+            "date_modified": "2022-06-17T15:58:45-05:00"
         },
         {
             "id": "https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico.html",
             "url": "https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico.html",
             "title": "OID-MX&#x27;22",
             "summary": "Open Infrastructure Days Mexico Format Event will be 100% online only and interactions will be done by real-time chat between&hellip;",
-            "content_html": "<h2>Open Infrastructure Days Mexico Format</h2>\n<p>Event will be 100% online only and interactions will be done by real-time chat between speakers and participants, be ready to make and answer questions, share links or even laboratory environments accesses.</p>\n<h1>Presentations</h1>\n<p>Presentations videos will be prerecorded and shared by the time scheduled, chat rooms will stay open from the beginning of the event and remain open from several month after.</p>\n<h1>Chat rooms</h1>\n<p>We will share a slack invite for all the participants a day before the event opening to be ready to interact and share opinions and questions.</p>\n<h1>Code of conduct</h1>\n<p>Please see <a href=\"https://openinfra.dev/legal/code-of-conduct\" target=\"_blank\" rel=\"noopener noreferrer\">Code of conduct</a> section.</p>\n<h1>Questions</h1>\n<p>Send us an e-mail to <a href=\"mailto:hello@openinfradays.mx\">hello@openinfradays.mx</a></p>",
+            "content_html": "<h2>Open Infrastructure Days Mexico Format</h2>\n<p>Event will be 100% online only and interactions will be done by real-time chat between speakers and participants, be ready to make and answer questions, share links or even laboratory environments accesses, please always have the <a href=\"https://openinfra.dev/legal/code-of-conduct\" target=\"_blank\" rel=\"noopener noreferrer\">Code of conduct</a> in mind.</p>\n<h1>Presentations</h1>\n<p>Presentations videos will be prerecorded and shared by the time scheduled, chat rooms will stay open from the beginning of the event and remain open until eternity. We don't need professional setups, just make sure you can record yourself with the background pointing to a wall or something without movement and get a good audio quality, reach out if you have questions or concerts.</p>\n<h1>Chat rooms</h1>\n<p>We will share a slack invite for all the participants a day before the event opening to be ready to interact and share opinions and questions.</p>\n<h1>Code of conduct</h1>\n<p>Please see <a href=\"https://openinfra.dev/legal/code-of-conduct\" target=\"_blank\" rel=\"noopener noreferrer\">Code of conduct</a> section.</p>\n<h1>Questions</h1>\n<p>Send us an e-mail to <a href=\"mailto:hello@openinfradays.mx\">hello@openinfradays.mx</a></p>",
             "author": {
                 "name": "OpenInfra Mexico Community"
             },
             "tags": [
             ],
             "date_published": "2022-06-15T04:55:07-05:00",
-            "date_modified": "2022-06-15T17:52:35-05:00"
+            "date_modified": "2022-06-17T15:57:16-05:00"
         },
         {
             "id": "https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home.html",
