@@ -1,1 +1,1 @@
-Same as https://openinfradays.vercel.app/
+Same as https://openinfradays.mx/
