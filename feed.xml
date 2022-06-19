@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="https://www.w3.org/2005/Atom">
     <title>OpenInfraDays Mexico 2022</title>
-    <link href=" https://openinfradays.mx/feed.xml" rel="self" />
-    <link href=" https://openinfradays.mx" />
+    <link href=" https://openinfradays.vercel.app/feed.xml" rel="self" />
+    <link href=" https://openinfradays.vercel.app" />
     <updated>2022-06-17T21:35:53-05:00</updated>
     <author>
         <name>OpenInfra Mexico Community</name>
     </author>
-    <id> https://openinfradays.mx</id>
+    <id> https://openinfradays.vercel.app</id>
 
     <entry>
         <title>Sponsors</title>
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href=" https://openinfradays.mx/sponsors.html"/>
-        <id> https://openinfradays.mx/sponsors.html</id>
+        <link href=" https://openinfradays.vercel.app/sponsors.html"/>
+        <id> https://openinfradays.vercel.app/sponsors.html</id>
 
         <updated>2022-06-17T21:35:42-05:00</updated>
             <summary>
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p class="align-center">Soon... (We hope)</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src=" https://openinfradays.mx/media/posts/4/sticker_10.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset=" https://openinfradays.mx/media/posts/4/responsive/sticker_10-xs.png 384w , https://openinfradays.mx/media/posts/4/responsive/sticker_10-sm.png 600w , https://openinfradays.mx/media/posts/4/responsive/sticker_10-md.png 768w , https://openinfradays.mx/media/posts/4/responsive/sticker_10-lg.png 1200w , https://openinfradays.mx/media/posts/4/responsive/sticker_10-xl.png 1600w"  alt="" width="309" height="309"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src=" https://openinfradays.vercel.app/media/posts/4/sticker_10.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset=" https://openinfradays.vercel.app/media/posts/4/responsive/sticker_10-xs.png 384w , https://openinfradays.vercel.app/media/posts/4/responsive/sticker_10-sm.png 600w , https://openinfradays.vercel.app/media/posts/4/responsive/sticker_10-md.png 768w , https://openinfradays.vercel.app/media/posts/4/responsive/sticker_10-lg.png 1200w , https://openinfradays.vercel.app/media/posts/4/responsive/sticker_10-xl.png 1600w"  alt="" width="309" height="309"></figure>
 <p class="align-center">If you or your company wants to become one please reach out to us at <a href="mailto:mkt@openinfradays.mx">mkt@openinfradays.mx</a></p>
 <p class="align-center"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="OpenInfraCDMX" data-hashtags="weareopeninfra" data-show-count="false">Tweet</a>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -39,8 +39,8 @@
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href=" https://openinfradays.mx/about-oid-mexico.html"/>
-        <id> https://openinfradays.mx/about-oid-mexico.html</id>
+        <link href=" https://openinfradays.vercel.app/about-oid-mexico.html"/>
+        <id> https://openinfradays.vercel.app/about-oid-mexico.html</id>
 
         <updated>2022-06-17T21:35:28-05:00</updated>
             <summary>
@@ -73,8 +73,8 @@
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href=" https://openinfradays.mx/home.html"/>
-        <id> https://openinfradays.mx/home.html</id>
+        <link href=" https://openinfradays.vercel.app/home.html"/>
+        <id> https://openinfradays.vercel.app/home.html</id>
 
         <updated>2022-06-17T21:35:07-05:00</updated>
             <summary>
@@ -94,8 +94,8 @@
 <li>
 <p>Speak at OID-MX'22 - Submissions Close July 11 23:59 CDT</p>
 </li>
-<li>See <a href=" https://openinfradays.mx/call-for-presentations.html">Call for presentations</a> to understand about Categories/Topics for consideration for sessions and case studies.</li>
-<li>See <a href=" https://openinfradays.mx/about-oid-mexico.html">About OID Mexico</a> to know more about the event format.</li>
+<li>See <a href=" https://openinfradays.vercel.app/call-for-presentations.html">Call for presentations</a> to understand about Categories/Topics for consideration for sessions and case studies.</li>
+<li>See <a href=" https://openinfradays.vercel.app/about-oid-mexico.html">About OID Mexico</a> to know more about the event format.</li>
 <li>To submit a proposal, please contact: <a href="mailto:speakers@openinfradays.mx" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">speakers@openinfradays.mx</a></li>
 </ul>
 <h2>About OID Mexico</h2>
@@ -130,8 +130,8 @@
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href=" https://openinfradays.mx/call-for-presentations.html"/>
-        <id> https://openinfradays.mx/call-for-presentations.html</id>
+        <link href=" https://openinfradays.vercel.app/call-for-presentations.html"/>
+        <id> https://openinfradays.vercel.app/call-for-presentations.html</id>
 
         <updated>2022-06-17T21:35:53-05:00</updated>
             <summary>
