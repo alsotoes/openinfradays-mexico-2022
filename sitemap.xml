@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href=" https://openinfradays.mx/sitemap.xsl"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="https://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/</loc>
+<loc> https://openinfradays.mx/</loc>
 </url>
 <url>
-<loc>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico.html</loc>
+<loc> https://openinfradays.mx/about-oid-mexico.html</loc>
 <lastmod>2022-06-17T21:35:28-05:00</lastmod>
 </url>
 <url>
-<loc>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations.html</loc>
+<loc> https://openinfradays.mx/call-for-presentations.html</loc>
 <lastmod>2022-06-17T21:35:53-05:00</lastmod>
 </url>
 <url>
-<loc>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home.html</loc>
+<loc> https://openinfradays.mx/home.html</loc>
 <lastmod>2022-06-17T21:35:07-05:00</lastmod>
 </url>
 <url>
-<loc>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors.html</loc>
+<loc> https://openinfradays.mx/sponsors.html</loc>
 <lastmod>2022-06-17T21:35:42-05:00</lastmod>
 <image:image>
-<image:loc>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/sticker_10.png</image:loc>
+<image:loc> https://openinfradays.mx/media/posts/4/sticker_10.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
