@@ -3,7 +3,7 @@
     <title>OpenInfraDays Mexico 2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io" />
-    <updated>2022-06-20T13:26:40-05:00</updated>
+    <updated>2022-06-21T00:44:41-05:00</updated>
     <author>
         <name>OpenInfra Mexico Community</name>
     </author>
@@ -14,13 +14,13 @@
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors.html"/>
-        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors.html</id>
+        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors/"/>
+        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors/</id>
 
-        <updated>2022-06-17T21:35:42-05:00</updated>
+        <updated>2022-06-21T00:43:59-05:00</updated>
             <summary>
                 <![CDATA[
-                    Soon... (We hope) If you or your company wants to become one please reach out to us at mkt@openinfradays.mx Tweet
+                    Soon... (We hope) If you or your company wants to become one please reach out to us at mkt@openinfradays.mx
                 ]]>
             </summary>
         <content type="html">
@@ -28,9 +28,6 @@
                 <p class="align-center">Soon... (We hope)</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/sticker_10.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xs.png 384w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-sm.png 600w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-md.png 768w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-lg.png 1200w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xl.png 1600w"  alt="" width="309" height="309"></figure>
 <p class="align-center">If you or your company wants to become one please reach out to us at <a href="mailto:mkt@openinfradays.mx">mkt@openinfradays.mx</a></p>
-<p class="align-center"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="OpenInfraCDMX" data-hashtags="weareopeninfra" data-show-count="false">Tweet</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
             ]]>
         </content>
     </entry>
@@ -39,10 +36,10 @@
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico.html"/>
-        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico.html</id>
+        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico/"/>
+        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico/</id>
 
-        <updated>2022-06-20T13:24:22-05:00</updated>
+        <updated>2022-06-21T00:43:46-05:00</updated>
             <summary>
                 <![CDATA[
                     Save the date Open Infrastructure Days Mexico edition will be take place on Monday August 15th. Event will be 100%&hellip;
@@ -62,9 +59,6 @@
 <p>Please see <a href="https://openinfra.dev/legal/code-of-conduct" target="_blank" rel="noopener noreferrer">Code of conduct</a> section.</p>
 <h1>Questions</h1>
 <p>Send us an e-mail to <a href="mailto:hello@openinfradays.mx">hello@openinfradays.mx</a></p>
-<p class="align-center"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="OpenInfraCDMX" data-hashtags="weareopeninfra" data-show-count="false">Tweet</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
             ]]>
         </content>
     </entry>
@@ -73,10 +67,10 @@
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home.html"/>
-        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home.html</id>
+        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home/"/>
+        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home/</id>
 
-        <updated>2022-06-20T13:26:40-05:00</updated>
+        <updated>2022-06-21T00:44:20-05:00</updated>
             <summary>
                 <![CDATA[
                     OpenInfra Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 11 23:59 CDT. Open&hellip;
@@ -95,8 +89,8 @@
 </li>
 <li>Event will be online, prerecorded and shared by the time scheduled.</li>
 <li>Save the date: Monday August 15th.</li>
-<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations.html">Call for presentations</a> to understand about Categories/Topics for consideration for sessions and case studies.</li>
-<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico.html">About OID Mexico</a> to know more about the event format.</li>
+<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations/">Call for presentations</a> to understand about Categories/Topics for consideration for sessions and case studies.</li>
+<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico/">About OID Mexico</a> to know more about the event format.</li>
 <li>To submit a proposal, please contact: <a href="mailto:speakers@openinfradays.mx" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">speakers@openinfradays.mx</a></li>
 </ul>
 <h2>About OID Mexico</h2>
@@ -120,9 +114,6 @@
 </ul>
 <p>For general information about the Open Infrastructure foundation please <a href="https://openinfra.dev/" target="_blank" rel="noopener noreferrer">click here</a></p>
 </div>
-<p class="align-center"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="OpenInfraCDMX" data-hashtags="weareopeninfra" data-show-count="false">Tweet</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
             ]]>
         </content>
     </entry>
@@ -131,10 +122,10 @@
         <author>
             <name>OpenInfra Mexico Community</name>
         </author>
-        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations.html"/>
-        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations.html</id>
+        <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations/"/>
+        <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations/</id>
 
-        <updated>2022-06-17T21:35:53-05:00</updated>
+        <updated>2022-06-21T00:44:41-05:00</updated>
             <summary>
                 <![CDATA[
                     Open Infrastructure Days Tracks The Open Infrastructure events includes keynotes, presentations, panels, hands-on workshops, and collaborative working sessions covering over&hellip;
@@ -167,9 +158,6 @@
 <p><strong>Q: Can I have more time to submit? </strong>A: We start evaluating proposals as soon as they are submitted. The earlier you submit, the less competition we have in front of us for the topic you want to present. Later submissions are compared to your early submission. Taking time to do a good job on the proposal will be reflected in your probability of being accepted. Hacking something together at the last minute just prior to the deadline is not a strategy for success.</p>
 <hr>
 <p><strong>Contact Information</strong><br>For additional questions, please contact <a href="mailto:speakers@openinfradays.mx">speakers@openinfradays.mx</a></p>
-<p class="align-center"><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-via="OpenInfraCDMX" data-hashtags="weareopeninfra" data-show-count="false">Tweet</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
             ]]>
         </content>
     </entry>
