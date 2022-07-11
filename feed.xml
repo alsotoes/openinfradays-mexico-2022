@@ -3,7 +3,7 @@
     <title>OpenInfraDays Mexico 2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io" />
-    <updated>2022-06-21T00:44:41-05:00</updated>
+    <updated>2022-07-11T13:17:29-05:00</updated>
     <author>
         <name>OpenInfra Mexico Community</name>
     </author>
@@ -17,16 +17,17 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors/"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors/</id>
 
-        <updated>2022-06-21T00:43:59-05:00</updated>
+        <updated>2022-07-11T12:52:25-05:00</updated>
             <summary>
                 <![CDATA[
-                    Soon... (We hope) If you or your company wants to become one please reach out to us at mkt@openinfradays.mx
+                    If you or your company wants to become one please reach out to us at mkt@openinfradays.mx
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">Soon... (We hope)</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/sticker_10.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xs.png 384w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-sm.png 600w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-md.png 768w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-lg.png 1200w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/sticker_10-xl.png 1600w"  alt="" width="309" height="309"></figure>
+                <p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://openinfra.dev/static/8c23f0090304d578d0b79381f7e99593/openinfrastructurefoundation-logo-rgb-horiz3.png" data-is-external-image="true"  alt="" width="392" height="114"></figure>
+<p class="align-center"> </p>
 <p class="align-center">If you or your company wants to become one please reach out to us at <a href="mailto:mkt@openinfradays.mx">mkt@openinfradays.mx</a></p>
             ]]>
         </content>
@@ -70,10 +71,10 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home/"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home/</id>
 
-        <updated>2022-06-21T00:44:20-05:00</updated>
+        <updated>2022-07-11T13:17:29-05:00</updated>
             <summary>
                 <![CDATA[
-                    OpenInfra Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 11 23:59 CDT. Open&hellip;
+                    OpenInfra Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 11 July 18 23:59&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -85,7 +86,7 @@
 <h2>Call for presentations is now Open 🤓</h2>
 <ul>
 <li>
-<p>Speak at OID-MX'22 - Submissions Close July 11 23:59 CDT.</p>
+<p>Speak at OID-MX'22 - Submissions Close <span style="text-decoration: line-through;">July 11</span> July 18 23:59 CDT.</p>
 </li>
 <li>Event will be online, prerecorded and shared by the time scheduled.</li>
 <li>Save the date: Monday August 15th.</li>
