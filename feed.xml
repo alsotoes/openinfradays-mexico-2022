@@ -3,7 +3,7 @@
     <title>OpenInfraDays Mexico 2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io" />
-    <updated>2022-07-12T12:22:45-05:00</updated>
+    <updated>2022-07-13T13:50:21-05:00</updated>
     <author>
         <name>OpenInfra Mexico Community</name>
     </author>
@@ -40,7 +40,7 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico/"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico/</id>
 
-        <updated>2022-06-21T00:43:46-05:00</updated>
+        <updated>2022-07-13T13:49:42-05:00</updated>
             <summary>
                 <![CDATA[
                     Save the date Open Infrastructure Days Mexico edition will be take place on Monday August 15th. Event will be 100%&hellip;
@@ -51,7 +51,7 @@
                 <h2>Save the date</h2>
 <p>Open Infrastructure Days Mexico edition will be take place on Monday August 15th.</p>
 <h2>Open Infrastructure Days Mexico Format</h2>
-<p>Event will be 100% online only and interactions will be done by real-time chat between speakers and participants, be ready to make and answer questions, share links or even laboratory environments accesses, please always have the <a href="https://openinfra.dev/legal/code-of-conduct" target="_blank" rel="noopener noreferrer">Code of conduct</a> in mind.</p>
+<p>Event will be 100% online and 100% free, interactions will be done by real-time chat between speakers and participants, be ready to make and answer questions, share links or even laboratory environments accesses, please always have the <a href="https://openinfra.dev/legal/code-of-conduct" target="_blank" rel="noopener noreferrer">Code of conduct</a> in mind.</p>
 <h1>Presentations</h1>
 <p>Presentations videos will be prerecorded and shared by the time scheduled, chat rooms will stay open from the beginning of the event and remain open until eternity. We don't need professional setups, just make sure you can record yourself with the background pointing to a wall or something without movement and get a good audio quality, reach out if you have questions or concerns.</p>
 <h1>Chat rooms</h1>
@@ -71,7 +71,7 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home/"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/home/</id>
 
-        <updated>2022-07-11T13:17:29-05:00</updated>
+        <updated>2022-07-13T13:50:21-05:00</updated>
             <summary>
                 <![CDATA[
                     OpenInfra Days Mexico 2022 We're OpenInfra / Somos OpenInfra Speak at OID-MX'22 - Submissions Close July 11 July 18 23:59&hellip;
@@ -91,7 +91,12 @@
 <li>Event will be online, prerecorded and shared by the time scheduled.</li>
 <li>Save the date: Monday August 15th.</li>
 <li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/call-for-presentations/">Call for presentations</a> to understand about Categories/Topics for consideration for sessions and case studies.</li>
-<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico/">About OID Mexico</a> to know more about the event format.</li>
+<li>See <a href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/about-oid-mexico/">About OID Mexico</a> to know more about the event format
+<ul>
+<li>100% virtual</li>
+<li>100% free</li>
+</ul>
+</li>
 <li>To submit a proposal, please contact: <a href="mailto:speakers@openinfradays.mx" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">speakers@openinfradays.mx</a></li>
 </ul>
 <h2>About OID Mexico</h2>
