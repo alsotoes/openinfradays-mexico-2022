@@ -3,7 +3,7 @@
     <title>OpenInfraDays Mexico 2022</title>
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/feed.xml" rel="self" />
     <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io" />
-    <updated>2022-07-19T20:02:07-05:00</updated>
+    <updated>2022-07-20T12:03:02-05:00</updated>
     <author>
         <name>OpenInfra Mexico Community</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors/"/>
         <id>https://alsotoes.github.io/openinfradays-mexico-2022.github.io/sponsors/</id>
 
-        <updated>2022-07-12T12:22:45-05:00</updated>
+        <updated>2022-07-20T12:03:02-05:00</updated>
             <summary>
                 <![CDATA[
                     If you or your company wants to become one please reach out to us at mkt@openinfradays.mx
@@ -27,7 +27,8 @@
             <![CDATA[
                 <p> </p>
 <figure class="post__image post__image--center"><a href="https://openinfra.dev/" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://openinfra.dev/static/8c23f0090304d578d0b79381f7e99593/openinfrastructurefoundation-logo-rgb-horiz3.png" data-is-external-image="true"  alt="" width="392" height="114"></figure></a></p>
-<figure class="post__image post__image--center"><a href="https://ceph.io/" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_120411_fa.png" data-is-external-image="true"  alt="" width="462" height="212"></figure></a></p>
+<figure class="post__image post__image--center"><a href="https://ceph.io" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://ceph.io/assets/bitmaps/Ceph_Logo_Standard_RGB_120411_fa.png" data-is-external-image="true"  alt="" width="462" height="212"></figure></a></p>
+<figure class="post__image post__image--center"><a href="https://bitergia.com/" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/bitergia.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/bitergia-xs.png 384w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/bitergia-sm.png 600w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/bitergia-md.png 768w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/bitergia-lg.png 1200w ,https://alsotoes.github.io/openinfradays-mexico-2022.github.io/media/posts/4/responsive/bitergia-xl.png 1600w"  alt="" width="300" height="75"></figure></a></p>
 <p class="align-center">If you or your company wants to become one please reach out to us at <a href="mailto:mkt@openinfradays.mx">mkt@openinfradays.mx</a></p>
             ]]>
         </content>
