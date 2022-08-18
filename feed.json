@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://openinfradays.mx/url-status/",
+            "url": "https://openinfradays.mx/url-status/",
+            "title": "URL status",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for Mirror CL: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/9f7d4a62\" data-is-external-image=\"true\"  alt=\"Uptime Report for Mirror CL: Last 30 days\" width=\"300\" height=\"165\"></td>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for Mirror CL: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/acba9404\" data-is-external-image=\"true\"  alt=\"Uptime Report for Mirror CL: Last 30 days\" width=\"300\" height=\"165\"></td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for Mirror US: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/726cdcbc\" data-is-external-image=\"true\"  alt=\"Uptime Report for Mirror US: Last 30 days\" width=\"300\" height=\"165\"></td>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for Mirror US: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/d62d66ae\" data-is-external-image=\"true\"  alt=\"Uptime Report for Mirror US: Last 30 days\" width=\"300\" height=\"165\"></td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for OpenInfra MX Slack: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/49e24bb1\" data-is-external-image=\"true\"  alt=\"Uptime Report for OpenInfra MX Slack: Last 30 days\" width=\"300\" height=\"165\"></td>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for OpenInfra MX Slack: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/da89095f\" data-is-external-image=\"true\"  alt=\"Uptime Report for OpenInfra MX Slack: Last 30 days\" width=\"300\" height=\"165\"></td>\n</tr>\n<tr>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for OpenInfraDays MX Portal: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/a1bcb9e5\" data-is-external-image=\"true\"  alt=\"Uptime Report for OpenInfraDays MX Portal: Last 30 days\" width=\"300\" height=\"165\"></td>\n<td style=\"width: 49.9288%;\"><img loading=\"lazy\" title=\"Uptime Report for OpenInfraDays MX Portal: Last 30 days\" src=\"https://us.mirrors.headup.ws/images/02c3a997\" data-is-external-image=\"true\"  alt=\"Uptime Report for OpenInfraDays MX Portal: Last 30 days\" width=\"300\" height=\"165\"></td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "OpenInfra Mexico Community"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-18T09:28:53-05:00",
+            "date_modified": "2022-08-18T17:56:27-05:00"
+        },
+        {
             "id": "https://openinfradays.mx/sponsors/",
             "url": "https://openinfradays.mx/sponsors/",
             "title": "Sponsors",
